@@ -10,7 +10,7 @@ Dacio Alberto Alcalde Leal
 #### El objetivo principal es aprender sobre estas vulnerabilidades y como solucionarlas, asi como aprender a montar un NAS junto a su active directory
 
 ### Medios que se van a utilizar
-* 1 Maquinas virtuales con un NAS, en el cual se instalara el active directory
-* 1 Maquinas virtuales con Windows 10 que serviran como cliente
+* 1 Maquina virtual con un NAS, en el cual se instalara el active directory
+* 1 Maquinas virtual con Windows 10 que serviran como cliente
 * 1 Maquina virtual con un Linux que utilizaremos como atacante
 
