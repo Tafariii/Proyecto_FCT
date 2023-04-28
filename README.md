@@ -59,5 +59,5 @@ Un RAID 1+0, a veces llamado RAID 10, es lo más parecido a un RAID 0+1 con la e
 ## Escenario necesario para la realización del proyecto.
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
 ## Bibliografía
-Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
-Synology (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
+- Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
+- Synology (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
