@@ -5,6 +5,7 @@
 3. [Fundamentos teóricos y conceptos previos](https://github.com/Tafariii/Proyecto_FCT#fundamentos-te%C3%B3ricos-y-conceptos-previos)
     - [Active Directory](https://github.com/Tafariii/Proyecto_FCT#active-directory)
     - [NAS](https://github.com/Tafariii/Proyecto_FCT#servidor-nas)
+    - [RAID](https://github.com/Tafariii/Proyecto_FCT#raid)
 ## Introduccion del proyecto
 En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
 ## Objetivos del proyecto
