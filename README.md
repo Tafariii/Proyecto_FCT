@@ -41,8 +41,17 @@ Los servidores NAS tambien pueden ser usados para crear una red virtual privada(
 #### Desventajas de usar un servidor NAS
 - **Depende del caso puede conllevar un gran aporte de capital**.
 - **El espacio fisico que el servidor puede ocupar**.
+### RAID
+RAID (Redundant Array of Independent Disks) es una tecnología que combina varios discos duros independientes para que funcionen como una unidad. Gracias a los diversos tipos de RAID, esta tecnología proporciona ventajas tales como aumentar la fiabilidad de datos, mejora del rendimiento de entrada/salida, elevación de la tolerancia a fallos, etc.
+#### Tipos de RAID mas comunes 
+- RAID 1
+Un RAID 1 crea una copia exacta (o espejo) de un conjunto de datos en dos o más discos. Esto resulta útil cuando queremos tener más seguridad desaprovechando capacidad, ya que si perdemos un disco, tenemos el otro con la misma información. Un conjunto RAID 1 solo puede ser tan grande como el más pequeño de sus discos. 
+- RAID 5
+Un RAID 5 (también llamado distribuido con paridad) es una división de datos a nivel de bloques que distribuye la información de paridad entre todos los discos miembros del conjunto. El RAID 5 ha logrado popularidad gracias a su bajo coste de redundancia. Generalmente, el RAID 5 se implementa con soporte hardware para el cálculo de la paridad. RAID 5 necesitará un mínimo de 3 discos para ser implementado.
+- RAID 6
+- RAID 10
 ## Escenario necesario para la realización del proyecto.
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
 ## Bibliografía
-"Xataka" (https://www.xataka.com/basics/que-nas-como-configurarlo)
-"Synology" (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
+Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
+Synology (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
