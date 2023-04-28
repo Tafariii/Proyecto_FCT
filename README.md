@@ -33,12 +33,12 @@ Hemos de tener en cuenta que un NAS cuenta con su propio sistema operativo el cu
 Los servidores NAS tambien pueden ser usados para crear una red virtual privada(VPN) e incluso como servidor FTP resultando tremendamente útil para las empresas.
 ![NAS](https://www.zonagadget.com/wp-content/uploads/2008/04/rhd4_uxe2_0_1.jpg)
 #### Beneficios de usar un servidor NAS
-- **Crear un entorno propio para trabajar en la nube.
-- **Te permite acceder a la información en remoto.
-- **Sincroniza los archivos.
-- **Apto para copias de seguridad.
+- **Crear un entorno propio para trabajar en la nube**.
+- **Te permite acceder a la información en remoto**.
+- **Sincroniza los archivos**.
+- **Apto para copias de seguridad**.
 #### Desventajas de usar un servidor NAS
-- **Depende del caso puede conllevar un gran aporte de capital.
+- **Depende del caso puede conllevar un gran aporte de capital**.
 - **El espacio fisico que el servidor puede ocupar**.
 ## Escenario necesario para la realización del proyecto.
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
