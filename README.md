@@ -48,6 +48,8 @@ RAID (Redundant Array of Independent Disks) es una tecnología que combina vario
 
 Un RAID 1 crea una copia exacta (o espejo) de un conjunto de datos en dos o más discos. Esto resulta útil cuando queremos tener más seguridad desaprovechando capacidad, ya que si perdemos un disco, tenemos el otro con la misma información. Un conjunto RAID 1 solo puede ser tan grande como el más pequeño de sus discos. 
 
+
+
 ![RAID1](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Raid1.png/184px-Raid1.png)
 - RAID 5
 
