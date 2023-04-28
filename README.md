@@ -1,6 +1,12 @@
 # Proyecto_FCT 
 Dacio Alberto Alcalde Leal
 # Implementacion Active Directory en un NAS
+## Tabla de contenidos
+1. Introducción
+2. Objetivos del proyecto
+3. Fundamentos teóricos y conceptos previos
+    -Active Directory
+    -NAS
 ## Introduccion del proyecto
 En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
 ## Objetivos del proyecto
