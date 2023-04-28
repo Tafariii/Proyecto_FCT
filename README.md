@@ -60,12 +60,14 @@ Un RAID 5 (también llamado distribuido con paridad) es una división de datos a
 
 
 En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» sería servida por el disco 0. Una petición de lectura simultánea del bloque «B1» tendría que esperar, pero una petición de lectura de «B2» podría atenderse concurrentemente ya que sería servida por el disco 1.
-- RAID 6
- 
-Un RAID 6 amplía el nivel RAID 5 añadiendo otro bloque de paridad, por lo que divide los datos a nivel de bloques y distribuye los dos bloques de paridad entre todos los miembros del conjunto. El RAID 6 no era uno de los niveles RAID originales.
-- RAID 10
+- RAID 1+0
  
 Un RAID 1+0, a veces llamado RAID 10, es lo más parecido a un RAID 0+1 con la excepción de que los niveles RAID que lo forman se invierte: el RAID 10 es una división de espejos.
+En cada división RAID 10 o RAID 1+0, pueden fallar todos los discos salvo uno sin que se pierdan datos. Sin embargo, si los discos que han fallado no se reemplazan, el restante pasa a ser un punto único de fallo para todo el conjunto. Si ese disco falla entonces, se perderán todos los datos del conjunto completo.
+
+
+![RAID1+0](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raid10.png/275px-Raid10.png)
+
 ## Escenario necesario para la realización del proyecto.
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
 ## Bibliografía
