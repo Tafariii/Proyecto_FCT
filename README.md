@@ -22,3 +22,7 @@ La base de datos (o el directorio) contiene información crítica sobre su entor
 - Mayor protección ante pérdidas de datos
 - Escalabilidad flexible del dominio.
 - Reducción de costes gracias a la centralización de recursos.
+#### ¿Y las desventajas?
+- **Active Directory puede ser muy costoso** dependiendo de cuántos sistemas administre Active Directory y qué tipo de volumen se requiera de Active Directory.
+- **Active Directory requiere una conexión a Internet** siempre activa para que los usuarios de Active Directory puedan autenticar las contraseñas de Active Directory.
+- **Active Directory tiene altos costos** de mantenimiento para administrar.
