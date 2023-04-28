@@ -57,6 +57,9 @@ Un RAID 5 (también llamado distribuido con paridad) es una división de datos a
 
 
 ![RAID5](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Raid5.png/320px-Raid5.png)
+
+
+En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» sería servida por el disco 0. Una petición de lectura simultánea del bloque «B1» tendría que esperar, pero una petición de lectura de «B2» podría atenderse concurrentemente ya que sería servida por el disco 1.
 - RAID 6
  
 Un RAID 6 amplía el nivel RAID 5 añadiendo otro bloque de paridad, por lo que divide los datos a nivel de bloques y distribuye los dos bloques de paridad entre todos los miembros del conjunto. El RAID 6 no era uno de los niveles RAID originales.
