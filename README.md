@@ -47,7 +47,7 @@ RAID (Redundant Array of Independent Disks) es una tecnología que combina vario
 - RAID 1
 
 Un RAID 1 crea una copia exacta (o espejo) de un conjunto de datos en dos o más discos. Esto resulta útil cuando queremos tener más seguridad desaprovechando capacidad, ya que si perdemos un disco, tenemos el otro con la misma información. Un conjunto RAID 1 solo puede ser tan grande como el más pequeño de sus discos. 
-![RAID|](https://upload.wikimedia.org/wikipedia/commons/e/e2/Raid1.png)
+![RAID|500](https://upload.wikimedia.org/wikipedia/commons/e/e2/Raid1.png)
 - RAID 5
 
 Un RAID 5 (también llamado distribuido con paridad) es una división de datos a nivel de bloques que distribuye la información de paridad entre todos los discos miembros del conjunto. El RAID 5 ha logrado popularidad gracias a su bajo coste de redundancia. Generalmente, el RAID 5 se implementa con soporte hardware para el cálculo de la paridad. RAID 5 necesitará un mínimo de 3 discos para ser implementado.
