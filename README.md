@@ -3,7 +3,7 @@ Dacio Alberto Alcalde Leal
 ## Implementacion Active Directory en un NAS
 ![Windows active directory](https://thehackerway.files.wordpress.com/2021/10/ad-1.1.png?w=816&h=9999)
 ### Introduccion del proyecto
-En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despligue de un directorio activo en el mismo.
+En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
 ### Objetivos del proyecto
 - Aprender a instalar un servidor NAS
 - Aprender a hacer uso de los diferentes RAIDS
