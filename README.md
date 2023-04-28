@@ -3,10 +3,10 @@ Dacio Alberto Alcalde Leal
 # Implementacion Active Directory en un NAS
 ## Tabla de contenidos
 1. [Introducción](https://github.com/Tafariii/Proyecto_FCT#introduccion-del-proyecto)
-2. Objetivos del proyecto
-3. Fundamentos teóricos y conceptos previos
-    + Active Directory
-    + NAS
+2. [Objetivos del proyecto](https://github.com/Tafariii/Proyecto_FCT#objetivos-del-proyecto)
+3. [Fundamentos teóricos y conceptos previos](https://github.com/Tafariii/Proyecto_FCT#fundamentos-te%C3%B3ricos-y-conceptos-previos)
+    + [Active Directory](https://github.com/Tafariii/Proyecto_FCT#active-directory)
+    + [NAS](https://github.com/Tafariii/Proyecto_FCT#servidor-nas)
               
 ## Introduccion del proyecto
 En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
