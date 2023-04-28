@@ -5,7 +5,8 @@ Dacio Alberto Alcalde Leal
 1. Introducción
 2. Objetivos del proyecto
 3. Fundamentos teóricos y conceptos previos
-4.     -NAS
+    - Active Directory
+    - NAS            
 ## Introduccion del proyecto
 En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
 ## Objetivos del proyecto
