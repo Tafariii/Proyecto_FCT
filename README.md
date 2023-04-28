@@ -5,7 +5,6 @@
 3. [Fundamentos teóricos y conceptos previos](https://github.com/Tafariii/Proyecto_FCT#fundamentos-te%C3%B3ricos-y-conceptos-previos)
     - [Active Directory](https://github.com/Tafariii/Proyecto_FCT#active-directory)
     - [NAS](https://github.com/Tafariii/Proyecto_FCT#servidor-nas)
-              
 ## Introduccion del proyecto
 En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
 ## Objetivos del proyecto
@@ -44,3 +43,5 @@ Los servidores NAS tambien pueden ser usados para crear una red virtual privada(
 - **El espacio fisico que el servidor puede ocupar**.
 ## Escenario necesario para la realización del proyecto.
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
+## Bibliografía
+Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
