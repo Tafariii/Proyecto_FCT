@@ -6,6 +6,8 @@
     - [Active Directory](https://github.com/Tafariii/Proyecto_FCT#active-directory)
     - [NAS](https://github.com/Tafariii/Proyecto_FCT#servidor-nas)
     - [RAID](https://github.com/Tafariii/Proyecto_FCT#raid)
+4.[Desarrollo del proyecto]()
+4.[Bibliografia](https://github.com/Tafariii/Proyecto_FCT#bibliograf%C3%ADa)
 ## Introduccion del proyecto
 En este proyecto se documenta la instalacion, configuracion y uso de un servidor NAS, asi como el despliegue de un directorio activo en el mismo.
 ## Objetivos del proyecto
@@ -69,7 +71,7 @@ En cada división RAID 10 o RAID 1+0, pueden fallar todos los discos salvo uno s
 
 ![RAID1+0](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raid10.png/275px-Raid10.png)
 
-## Escenario necesario para la realización del proyecto.
+## Desarrollo del proyecto
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
 ## Bibliografía
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
