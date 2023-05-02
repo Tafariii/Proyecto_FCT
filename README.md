@@ -76,6 +76,8 @@ En cada división RAID 10 o RAID 1+0, pueden fallar todos los discos salvo uno s
 
 ## Desarrollo del proyecto
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
+OpenVPN
+Copias de seguridad
 ## Conclusión
 ## Bibliografía
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
