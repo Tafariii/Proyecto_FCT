@@ -44,6 +44,7 @@ Los servidores NAS tambien pueden ser usados para crear una red virtual privada(
 #### Desventajas de usar un servidor NAS
 - **Depende del caso puede conllevar un gran aporte de capital**.
 - **El espacio fisico que el servidor puede ocupar**.
+- **La fiabilidad de un servidor NAS** depende en gran medida del hardware utilizado, y pueden ser propensos a fallos si no se realiza un mantenimiento adecuado.
 ### RAID
 RAID (Redundant Array of Independent Disks) es una tecnología que combina varios discos duros independientes para que funcionen como una unidad. Gracias a los diversos tipos de RAID, esta tecnología proporciona ventajas tales como aumentar la fiabilidad de datos, mejora del rendimiento de entrada/salida, elevación de la tolerancia a fallos, etc.
 #### Tipos de RAID mas comunes 
