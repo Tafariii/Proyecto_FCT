@@ -74,6 +74,7 @@ En cada división RAID 10 o RAID 1+0, pueden fallar todos los discos salvo uno s
 
 ## Desarrollo del proyecto
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
+## Conclusion
 ## Bibliografía
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
 - Synology (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
