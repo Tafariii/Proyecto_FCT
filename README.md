@@ -50,6 +50,12 @@ Los servidores NAS tambien pueden ser usados para crear una red virtual privada(
 ### RAID
 RAID (Redundant Array of Independent Disks) es una tecnología que combina varios discos duros independientes para que funcionen como una unidad. Gracias a los diversos tipos de RAID, esta tecnología proporciona ventajas tales como aumentar la fiabilidad de datos, mejora del rendimiento de entrada/salida, elevación de la tolerancia a fallos, etc.
 #### Tipos de RAID mas comunes 
+- RAID 0
+
+Un RAID 0 (también llamado conjunto dividido, volumen dividido, volumen seccionado) distribuye los datos equitativamente entre dos o más discos (usualmente se ocupa el mismo espacio en dos o más discos) sin información de paridad que proporcione redundancia. El RAID 0 se usa habitualmente para proporcionar un alto rendimiento de escritura ya que los datos se escriben en dos o más discos de forma paralela, aunque un mismo fichero solo está presente una vez en el conjunto.
+
+
+![RAID0](https://user-images.githubusercontent.com/113986006/235619208-3a3e3973-5357-44ea-9c57-bd78c48a66cc.png)
 - RAID 1
 
 Un RAID 1 crea una copia exacta (o espejo) de un conjunto de datos en dos o más discos. Esto resulta útil cuando queremos tener más seguridad desaprovechando capacidad, ya que si perdemos un disco, tenemos el otro con la misma información. Un conjunto RAID 1 solo puede ser tan grande como el más pequeño de sus discos. 
