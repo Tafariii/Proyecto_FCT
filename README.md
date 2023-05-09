@@ -21,7 +21,9 @@ En este proyecto se documenta la instalacion, configuracion y uso de un servidor
 ### Active Directory
 Active Directory (AD) es una base de datos y un conjunto de servicios que conectan a los usuarios con los recursos de red que necesitan para realizar su trabajo.
 La base de datos (o el directorio) contiene información crítica sobre su entorno, incluidos los usuarios y los equipos que hay y quién puede hacer qué. Por ejemplo, la base de datos puede contener una lista de 100 cuentas de usuario con detalles como el puesto de trabajo, el número de teléfono y la contraseña de cada persona. También registrará sus permisos.
+
 ![Windows active directory](https://thehackerway.files.wordpress.com/2021/10/ad-1.1.png?w=816&h=9999)
+
 #### ¿Cuales son los beneficios de usar Active Directory?
 - Configuración y gestión totalmente centralizada de políticas, permisos, etc para todos los usuarios, equipos, grupos y aplicaciones.
 - Mayor protección ante pérdidas de datos
@@ -72,18 +74,11 @@ Un RAID 5 (también llamado distribuido con paridad) es una división de datos a
 
 
 En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» sería servida por el disco 0. Una petición de lectura simultánea del bloque «B1» tendría que esperar, pero una petición de lectura de «B2» podría atenderse concurrentemente ya que sería servida por el disco 1.
-- RAID 1+0
- 
-Un RAID 1+0, a veces llamado RAID 10, es lo más parecido a un RAID 0+1 con la excepción de que los niveles RAID que lo forman se invierte: el RAID 10 es una división de espejos.
-En cada división RAID 10 o RAID 1+0, pueden fallar todos los discos salvo uno sin que se pierdan datos. Sin embargo, si los discos que han fallado no se reemplazan, el restante pasa a ser un punto único de fallo para todo el conjunto. Si ese disco falla entonces, se perderán todos los datos del conjunto completo.
 
-
-![RAID1+0](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raid10.png/275px-Raid10.png)
 
 ## Desarrollo del proyecto
 En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
 OpenVPN
-Copias de seguridad
 ## Conclusión
 ## Bibliografía
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
