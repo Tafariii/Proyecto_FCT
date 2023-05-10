@@ -77,8 +77,14 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 
 
 ## Desarrollo del proyecto
-En este apartado describiremos el proceso de instalacion del servidor NAS para posteriormente implementar en este nuestro directorio activo.
-OpenVPN
+### Instalación
+### Sistemas de almacenamiento
+### Snapshot
+### Cloud Sync
+### OpenVPN
+### Acceso recursos
+#### Windows
+#### Linux
 ## Conclusión
 ## Bibliografía
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
