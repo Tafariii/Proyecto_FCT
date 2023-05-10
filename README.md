@@ -78,13 +78,16 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 
 ## Desarrollo del proyecto
 ### Instalación
-### Sistemas de almacenamiento
+### Sistemas de almacenamiento(RAID)
 ### Snapshot
 ### Cloud Sync
 ### OpenVPN
 ### Acceso recursos
 #### Windows
 #### Linux
+### Docker
+### MV
+### FTP
 ## Conclusión
 ## Bibliografía
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
