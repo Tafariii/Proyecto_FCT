@@ -1,4 +1,4 @@
-# Instalación y configuración de un servidor NAS
+# Implementación de Active Directory en un servidor NAS
 ## Tabla de contenidos
 1. [Introducción](https://github.com/Tafariii/Proyecto_FCT#introduccion-del-proyecto)
 2. [Objetivos del proyecto](https://github.com/Tafariii/Proyecto_FCT#objetivos-del-proyecto)
