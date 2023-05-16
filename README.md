@@ -94,3 +94,4 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 - Xataka (https://www.xataka.com/basics/que-nas-como-configurarlo)
 - Synology (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
 - Wikipedia (https://es.wikipedia.org/wiki/RAID)
+- Flopy (https://www.flopy.es/tutorial-de-truenas-parte-3-como-anadir-truenas-a-un-dominio/)
