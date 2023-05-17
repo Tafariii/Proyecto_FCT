@@ -78,7 +78,7 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 
 ## Desarrollo del proyecto
 ### Instalación
-### Sistemas de almacenamiento(RAID)
+### Añadir nuestro NAS a un Active Directory
 ### Snapshot
 ### Cloud Sync
 ### SSH
@@ -95,3 +95,4 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 - Synology (https://kb.synology.com/es-mx/DSM/tutorial/How_to_create_and_manage_RAID_volumes_on_the_DiskStation)
 - Wikipedia (https://es.wikipedia.org/wiki/RAID)
 - Flopy (https://www.flopy.es/tutorial-de-truenas-parte-3-como-anadir-truenas-a-un-dominio/)
+- Youtube (https://www.youtube.com/watch?v=cY4xouP6CAw)
