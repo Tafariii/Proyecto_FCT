@@ -107,6 +107,9 @@ Ahora tendremos que promocionar nuestro servidor
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/88d106ba-17ed-42c9-ba0f-09a1480102a4)
 
+Vamos a crear un usuario, el cual utilizaremos luego en el NAS
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/96228e77-4bac-4ee1-aafe-6317e7d9258c)
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/5afaef95-3a50-4f9a-946b-caa1e8e38a20)
 
 ### Añadir nuestro NAS a un Active Directory
 ### Snapshot
