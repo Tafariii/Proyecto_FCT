@@ -78,6 +78,32 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 
 ## Desarrollo del proyecto
 ### Instalación
+Lo primero que vamos a hacer es instalar y configurar nuestro Active Directory, asi como nuestro servidor DNS, y para ello vamos a ponerle una ip fija a nuestro Windows server
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/1ff68a2c-08a8-47a1-af76-b3c767bd1ee6)
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c316a5cc-8561-4a15-89cb-d3c37a95e956)
+
+Agregamos Roles y caracteristicas
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d92b8799-7535-48c9-b8c6-550715d35d04)
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/7233c754-3427-4986-9451-394d87936509)
+
+Instalamos Active Directory y el servidor DNS
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c04fc817-d51a-45b8-a113-2f6f631f3fef)
+
+Las siguientes opciones no hace falta modificarlas solo seguir hacia delante
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/f2ea3b52-bd5c-4661-bbb6-2cb831e39260)
+
+
+Ahora tendremos que promocionar nuestro servidor
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d0766115-a0b7-413a-8792-dcb3e825d3e8)
+
+
+
+
 ### Añadir nuestro NAS a un Active Directory
 ### Snapshot
 ### Cloud Sync
