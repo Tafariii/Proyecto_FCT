@@ -102,6 +102,10 @@ Ahora tendremos que promocionar nuestro servidor
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d0766115-a0b7-413a-8792-dcb3e825d3e8)
 
 
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/f93124ec-e639-4492-8888-c55817a725ee)
+
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/88d106ba-17ed-42c9-ba0f-09a1480102a4)
 
 
 ### Añadir nuestro NAS a un Active Directory
