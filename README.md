@@ -132,6 +132,7 @@ Vamos a crear un usuario, el cual utilizaremos luego en el NAS
 Debido a que TrueNAS está diseñado y se proporciona como un archivo iso, funciona en todas
 las soluciones de máquinas virtuales (VMware, VirtualBox, etc.). Nosotros
 realizaremos la instalación con VMware Workstation Pro en Windows.
+
 Archivo de imagen del disco instalador: https://www.truenas.com/download-truenas-core/
 
 CUIDADO: Error UEFI de FreeBSD con ESXi
