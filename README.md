@@ -206,6 +206,10 @@ Como podemos ver, el servidor NAS y el Directorio Activo se ven, pero solo si in
 Vamos a añadir un nuevo registro A a nuestro servidor DNS
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/4f4097e3-4884-4377-9403-c73d9a3b38e2)
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/178721f1-b6cf-4d0b-afa2-900d9f113897)
+Y como podemos ver ya podemos hacer ping utilizando el hostname del servidor NAS
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/16d54e83-6d9f-4565-9149-96689cd09446)
+
 
 Si nos vamos al NAS y hacemos un ping con el nombre del dominio, veremos que este lo realiza a la perfección
 
