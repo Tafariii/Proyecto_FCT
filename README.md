@@ -78,9 +78,11 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 
 ## Desarrollo del proyecto
 ### Instalación
-Lo primero que vamos a hacer es instalar y configurar nuestro Active Directory, asi como nuestro servidor DNS, y para ello vamos a ponerle una ip fija a nuestro Windows server
+Primero,configuraremos el nombre del equipo para darle un nombre
+descriptivo, tarea muy común en entornos empresariales para permitir identificar los
+servicios de manera más rápida. En nuestro caso he decidido llamarlo DC01 
 
-![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/1ff68a2c-08a8-47a1-af76-b3c767bd1ee6)
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c316a5cc-8561-4a15-89cb-d3c37a95e956)
 
 Agregamos Roles y caracteristicas
@@ -96,6 +98,9 @@ Las siguientes opciones no hace falta modificarlas solo seguir hacia delante
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/f2ea3b52-bd5c-4661-bbb6-2cb831e39260)
 
+Le pondremos ip fija 
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/1ff68a2c-08a8-47a1-af76-b3c767bd1ee6)
 
 Ahora tendremos que promocionar nuestro servidor
 
@@ -127,6 +132,42 @@ Espacio disco instalacion truenas
 Añadimos dos disco duros de 1TB cada uno
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c09e6b9a-7375-4e2e-9ff0-ed2581d111e2)
 
+Pantalla de inicio del NAS
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/eae0bc17-3032-406e-a47e-b41868829379)
+
+Opcion instalar TrueNAS
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/8429c9a5-646e-400a-97b8-d7dbf33d9d97)
+
+Eleccion disco duro donde instalar TrueNAS
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/8d7188ba-f046-41df-8e4a-c43309f62005)
+
+Contraseña root
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/85036a2d-711c-42fc-8398-4e7840f170b0)
+
+Modo BIOS
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/4f9d2f68-952b-433b-a595-2e2018b5ed38)
+
+Una vez reinicada la maquina nos saldran estas opciones, pero nosotros entraremos con la ip mediante el navegador
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/6d241a29-3478-4c35-88c1-5ccb1919b7b8)
+
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/97ed352b-f5e3-4c2e-ab7d-f2f05c38d001)
+
+
+Lo primero que deberemos hacer para configurar nuestro NAS, es añadir los discos duros que vamos a utilizar de almacenamiento
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/cfb7de59-c121-4135-93d1-9d253fe3b667)
+
+Añadiremos los discos como un volumen de datos y utilizaremos la opcion RAID-Z2 que no es mas que un RAID 6
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c46f61db-82c2-4fb3-a046-d27c1af5b9ea)
+
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d107cfca-d8cd-400c-a7a8-1bcea1cc9fdc)
 
 ### Añadir nuestro NAS a un Active Directory
 ### Snapshot
