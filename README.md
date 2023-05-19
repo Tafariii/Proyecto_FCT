@@ -145,21 +145,27 @@ resuelva. Consulte el artículo de VMware https://docs.vmware.com/en/VMware-vSph
 La opción ideal es FreeBSD 12 de 64 bits. Si no está disponible, pruebe opciones
 como FreeBSD 12, FreeBSD 64 bit, 64 bit OS u Other. **No elija un tipo de sistema operativo
 relacionado con Windows o Linux.**
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c2eaeddf-4b6e-4063-a142-74f4caae4525)
 
 En las recomendaciones oficiales viene especificado que con un procesador de 64 bits deberia ser suficiente para nuestro TrueNAS, en caso de tener un procesador de 32 bits deberemos instalar una version anterior de FreeNAS (antecesor de TrueNAS)
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/28b992bd-a9cb-4d66-9ec9-7a5958c0003d)
-Memoria RAM
-1GB por disco duro
+Memoria RAM 1GB por disco duro
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/5aa59e90-c58f-49a8-bf16-c6bc2a2481e7)
 Tipo de disco
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d1c873be-bdbe-47b8-a487-0503f335ada1)
 Espacio disco instalacion truenas
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/fb3dc67f-b14f-42c9-9d2a-9de1236497ee)
 Añadimos discos duros de 1TB cada uno
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/23e50899-905e-4e53-a5ef-5e545d9d7b1b)
 
 Pantalla de inicio del NAS
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/eae0bc17-3032-406e-a47e-b41868829379)
 
 Opcion instalar TrueNAS
@@ -175,6 +181,7 @@ Contraseña root
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/85036a2d-711c-42fc-8398-4e7840f170b0)
 
 Modo BIOS
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/4f9d2f68-952b-433b-a595-2e2018b5ed38)
 
 Una vez reinicada la maquina nos saldran estas opciones, pero nosotros entraremos con la ip mediante el navegador
@@ -198,14 +205,18 @@ Añadiremos los discos como un volumen de datos y utilizaremos la opcion RAID-Z2
 
 ### Añadir nuestro NAS a un Active Directory
 Lo primero sera darle un nombre a nuestro TrueNAS, asi como especificarle el nombre del dominio y su ip para que utilize el servidor DNS
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/87217920-30a9-4f19-97b4-4db0578a10a8)
 
 Como podemos ver, el servidor NAS y el Directorio Activo se ven, pero solo si introducimos la ip, asi que vamos a solucionar eso
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/6dc68c6b-69c2-4acf-8be5-b6fafff726d9)
 
 Vamos a añadir un nuevo registro A a nuestro servidor DNS
+
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/4f4097e3-4884-4377-9403-c73d9a3b38e2)
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/178721f1-b6cf-4d0b-afa2-900d9f113897)
+
 Y como podemos ver ya podemos hacer ping utilizando el hostname del servidor NAS
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/16d54e83-6d9f-4565-9149-96689cd09446)
