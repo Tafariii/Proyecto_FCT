@@ -133,7 +133,7 @@ Debido a que TrueNAS está diseñado y se proporciona como un archivo iso, funci
 las soluciones de máquinas virtuales (VMware, VirtualBox, etc.). Nosotros
 realizaremos la instalación con VMware Workstation Pro en Windows.
 
-Archivo de imagen del disco instalador: https://www.truenas.com/download-truenas-core/
+**Archivo de imagen del disco instalador: https://www.truenas.com/download-truenas-core/
 
 CUIDADO: Error UEFI de FreeBSD con ESXi
 Productos VMWare y modo de inicio EFI: un error de terceros afecta actualmente el inicio EFI
