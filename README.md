@@ -127,7 +127,7 @@ Vamos a crear un usuario, el cual utilizaremos luego en el NAS
 
 
 
-Ahora instalaremos y configuraremos nuestro servidor NAS.
+### Instalación servidor NAS.
 
 Debido a que TrueNAS está diseñado y se proporciona como un archivo iso, funciona en todas
 las soluciones de máquinas virtuales (VMware, VirtualBox, etc.). Nosotros
