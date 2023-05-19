@@ -156,8 +156,8 @@ Tipo de disco
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d1c873be-bdbe-47b8-a487-0503f335ada1)
 Espacio disco instalacion truenas
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/fb3dc67f-b14f-42c9-9d2a-9de1236497ee)
-Añadimos dos disco duros de 1TB cada uno
-![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c09e6b9a-7375-4e2e-9ff0-ed2581d111e2)
+Añadimos discos duros de 1TB cada uno
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/23e50899-905e-4e53-a5ef-5e545d9d7b1b)
 
 Pantalla de inicio del NAS
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/eae0bc17-3032-406e-a47e-b41868829379)
