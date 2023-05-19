@@ -77,7 +77,8 @@ En el gráfico de ejemplo anterior, una petición de lectura del bloque «A1» s
 
 
 ## Desarrollo del proyecto
-### Instalación
+
+### Instalación Directorio Activo
 Primero,configuraremos el nombre del equipo para darle un nombre
 descriptivo, tarea muy común en entornos empresariales para permitir identificar los
 servicios de manera más rápida. En nuestro caso he decidido llamarlo DC01 
