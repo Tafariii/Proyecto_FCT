@@ -221,6 +221,11 @@ Ahora conectaremos nuestro Directorio Activo a nuestro NAS
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/35376366-8acd-474b-aa5f-a89c2e58304e)
 
+Una vez guardamos los cambios, el servidor tardara unos segundos en conectarse con Directorio Activo, y para comprobar que estamos conectados usaremos el siguiente comando en el shell del NAS para que nos saque un listado de los usuarios que TrueNAS puede manejar por el momento
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/8c332e7b-d1f8-4ab7-86b9-b45d0c556399)
+
+Y como podemos ver se encuentra el usuario dacio que creamos anteriormente en el Directorio Activo 
 ### Snapshot
 ### Cloud Sync
 ### SSH
