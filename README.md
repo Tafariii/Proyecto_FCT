@@ -111,6 +111,23 @@ Vamos a crear un usuario, el cual utilizaremos luego en el NAS
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/96228e77-4bac-4ee1-aafe-6317e7d9258c)
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/5afaef95-3a50-4f9a-946b-caa1e8e38a20)
 
+
+
+Ahora instalaremos y configuraremos nuestro servidor NAS
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c2eaeddf-4b6e-4063-a142-74f4caae4525)
+Procesador
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/28b992bd-a9cb-4d66-9ec9-7a5958c0003d)
+Memoria RAM
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/5aa59e90-c58f-49a8-bf16-c6bc2a2481e7)
+Tipo de disco
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d1c873be-bdbe-47b8-a487-0503f335ada1)
+Espacio disco instalacion truenas
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/fb3dc67f-b14f-42c9-9d2a-9de1236497ee)
+Añadimos dos disco duros de 1TB cada uno
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c09e6b9a-7375-4e2e-9ff0-ed2581d111e2)
+
+
 ### Añadir nuestro NAS a un Active Directory
 ### Snapshot
 ### Cloud Sync
