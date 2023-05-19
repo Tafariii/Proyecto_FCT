@@ -140,6 +140,11 @@ Productos VMWare y modo de inicio EFI: un error de terceros afecta actualmente e
 (UEFI) en productos VMWare. TrueNAS debe instalarse en modo BIOS hasta que esto se
 resuelva. Consulte el artículo de VMware https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.esxi.install.doc/GUID-D1BD27AB-C432-454D-9B2B-DC04E7BA9979.html
 
+
+### Procedimiento de creación en VMware
+La opción ideal es FreeBSD 12 de 64 bits. Si no está disponible, pruebe opciones
+como FreeBSD 12, FreeBSD 64 bit, 64 bit OS u Other. **No elija un tipo de sistema operativo
+relacionado con Windows o Linux.**
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c2eaeddf-4b6e-4063-a142-74f4caae4525)
 Procesador
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/28b992bd-a9cb-4d66-9ec9-7a5958c0003d)
