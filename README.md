@@ -127,6 +127,16 @@ Vamos a crear un usuario, el cual utilizaremos luego en el NAS
 
 
 Ahora instalaremos y configuraremos nuestro servidor NAS
+Debido a que TrueNAS está diseñado y se proporciona como un archivo iso, funciona en todas
+las soluciones de máquinas virtuales (VMware, VirtualBox, etc.). Nosotros
+realizaremos la instalación con VMware Workstation Pro en Windows.
+
+CUIDADO: Error UEFI de FreeBSD con ESXi
+Productos VMWare y modo de inicio EFI: un error de terceros afecta actualmente el inicio EFI
+(UEFI) en productos VMWare. TrueNAS debe instalarse en modo BIOS hasta que esto se
+resuelva. Consulte el artículo de VMware https://docs.vmware.com/en/VMware-
+vSphere/7.0/com.vmware.esxi.install.doc/GUID-D1BD27AB-C432-454D-9B2B-
+DC04E7BA9979.html
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c2eaeddf-4b6e-4063-a142-74f4caae4525)
 Procesador
