@@ -215,6 +215,11 @@ Si nos vamos al NAS y hacemos un ping con el nombre del dominio, veremos que est
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/08d2bac0-0ddd-457e-9d39-fafe3f833bfc)
 
+Ahora conectaremos nuestro Directorio Activo a nuestro NAS
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/9a585978-557e-4264-b926-da336c12b89c)
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/35376366-8acd-474b-aa5f-a89c2e58304e)
 
 ### Snapshot
 ### Cloud Sync
