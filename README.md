@@ -85,16 +85,16 @@ servicios de manera más rápida. En nuestro caso he decidido llamarlo DC01
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c316a5cc-8561-4a15-89cb-d3c37a95e956)
 
-A continuacion, crearemos el Directorio Activo e instalaremos el servidor DNS el cual sera necesario para agregar el NAS a nuestro Directorio Activo. Para ello le daremos a agregar roles y caracteristicas.
+A continuacion, crearemos el Directorio Activo e instalaremos el servidor DNS el cual sera necesario para nuestro Directorio Activo y para agregar el NAS a nuestro Directorio Activo. Para ello le daremos a agregar roles y caracteristicas.
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/d92b8799-7535-48c9-b8c6-550715d35d04)
 
 La instalacion del Directorio Activo y el servidor DNS no tiene complejidad, debemos seleccionar Instalación basada
-en características o en roles
+en características o en roles.
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/7233c754-3427-4986-9451-394d87936509)
 
-Instalamos Active Directory y el servidor DNS
+Seleccionaremos el servidor que usamos actualmente e instalaremos Active Directory y el servidor DNS
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/c04fc817-d51a-45b8-a113-2f6f631f3fef)
 
