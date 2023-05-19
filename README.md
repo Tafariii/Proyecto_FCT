@@ -102,7 +102,12 @@ Las siguientes opciones no hace falta modificarlas solo seguir hacia delante
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/f2ea3b52-bd5c-4661-bbb6-2cb831e39260)
 
-Le pondremos ip fija 
+A continuación, asignaremos una ip estatica para que el servidor DHCP no nos de una diferente.
+
+Para poder configurar una dirección estática, nos dirigiremos a Panel de control\Redes
+e Internet\Conexiones de red y seleccionaremos la interfaz que queremos modificar
+(en el caso del laboratorio, solo existe la Ethernet), daremos clic derecho y Propiedades
+y seleccionaremos Protocolo de Internet versión 4 (TCP/IPv4)
 
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/1ff68a2c-08a8-47a1-af76-b3c767bd1ee6)
 
