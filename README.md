@@ -257,6 +257,14 @@ Y hacemos una prueba (DRY RUN)
 
 ### SSH
 ### OpenVPN
+Creamos nuestro entidad certificadora
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/16cb1919-e52e-4fb6-a1bf-8daf4947a8f8)
+
+Creamos nuestro primer certificado
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/0df6ae96-62cf-4e2c-846d-24b8db312d10)
+
 ### Acceso recursos
 #### Windows
 #### Linux
