@@ -247,7 +247,13 @@ Nos pediran permiso
 
 Ahora crearemos la tarea de sincronizar los archivos del NAS con los del google drive
 Task > Cloud Sync Tasks
-![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/51e47ee5-f059-4c3d-bbfc-1efa03f81372)
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/7cbe92e6-3cf9-48ef-8ab0-b6c963675c3e)
+
+
+Y hacemos una prueba (DRY RUN)
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/b616f957-7a59-486c-b867-38f7d0fc0e81)
 
 ### SSH
 ### OpenVPN
