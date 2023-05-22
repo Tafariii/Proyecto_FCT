@@ -239,6 +239,16 @@ Una vez guardamos los cambios, el servidor tardara unos segundos en conectarse c
 Y como podemos ver se encuentra el usuario dacio que creamos anteriormente en el Directorio Activo 
 ### Snapshot
 ### Cloud Sync
+System > Cloud Credentials
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/076b5022-d859-4184-9c78-e9abaeda4d2d)
+Nos pediran permiso
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/b0a5a4a0-0e1f-470a-987e-c7c721942027)
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/b997c7ab-2afb-4820-a974-18cf60a473d1)
+
+Ahora crearemos la tarea de sincronizar los archivos del NAS con los del google drive
+Task > Cloud Sync Tasks
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/51e47ee5-f059-4c3d-bbfc-1efa03f81372)
+
 ### SSH
 ### OpenVPN
 ### Acceso recursos
