@@ -268,6 +268,11 @@ Creamos nuestro primer certificado
 ### Acceso recursos
 #### Windows
 #### Linux
+Instala los paquetes necesarios en el equipo Linux para permitir la autenticación con el Directorio Activo. Dependiendo de la distribución Linux que estés utilizando, los paquetes pueden variar. Para una distribución basada en Debian, como Ubuntu, puedes instalar los siguientes paquetes:
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/6e0b2b1f-27f2-4559-8b66-8e083ac5b68c)
+Ingresamos el nombre del dominio al cual queremos unirnos
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/b1a09ff6-5849-47e6-97ac-fa3029b4044a)
+
 ### Docker
 ### MV
 ### FTP
