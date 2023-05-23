@@ -278,3 +278,4 @@ Creamos nuestro primer certificado
 - Wikipedia (https://es.wikipedia.org/wiki/RAID)
 - Flopy (https://www.flopy.es/tutorial-de-truenas-parte-3-como-anadir-truenas-a-un-dominio/)
 - Youtube (https://www.youtube.com/watch?v=cY4xouP6CAw)
+- ZFS (https://www.profesionalreview.com/2022/07/26/zfs/#:~:text=ZFS%20%28Zettabyte%20File%20System%29%20es%20un%20sistema%20de,estructura%20con%20funciones%20de%20control%20basadas%20en%20bloques.)
