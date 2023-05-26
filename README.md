@@ -238,6 +238,16 @@ Una vez guardamos los cambios, el servidor tardara unos segundos en conectarse c
 
 Y como podemos ver se encuentra el usuario dacio que creamos anteriormente en el Directorio Activo 
 ### Snapshot
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/551572c6-5e00-4405-a68e-36e114178fdd)
+
+
+
+![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/14cde00c-413f-455e-a7e7-216a715af043)
+
+
+
+
 ### Cloud Sync
 System > Cloud Credentials
 ![image](https://github.com/Tafariii/Proyecto_FCT/assets/113986006/076b5022-d859-4184-9c78-e9abaeda4d2d)
